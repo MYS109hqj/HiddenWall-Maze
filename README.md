@@ -1,4 +1,4 @@
-# HiddenWall-Maze
+# HiddenWall-Maze 记忆的迷宫
 A qt project creating an invisible maze. Inspired by the program the Genius.
 
 初版本：
