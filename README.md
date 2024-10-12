@@ -12,4 +12,5 @@ A qt project creating an invisible maze. Inspired by the program the Genius.
 24/04/16更新
 将程序界面略微美化，下载文件夹"记忆的迷宫HiddenWall_TheMaze"，之后打开exe文件即可游玩。用Qt打包好了。最新版本的代码见240616的源文件。
 
-24/09/26
+24/10/12
+修复了在即将到达终点时碰墙时，错误地显示了结束窗口的bug。项目文件与打包文件均更新。
